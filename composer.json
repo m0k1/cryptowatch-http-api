@@ -1,5 +1,5 @@
 {
-    "name": "djansen20/cryptowatch-http-api",
+    "name": "m0k1/cryptowatch-prices-api",
     "description": "Package for the client implementation of the cryptowatch HTTP API",
     "type": "library",
     "keywords": [
@@ -9,14 +9,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Danny Jansen",
-            "email": "danny.jansen93@gmail.com",
+            "name": "Moki Ding",
+            "email": "me@m0k1.pw",
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": "^7.1"
-    },
     "require-dev": {
         "phpunit/phpunit": "*"
     },

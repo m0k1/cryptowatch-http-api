@@ -1,7 +1,6 @@
 # Cryptowatch HTTP API client
 A rough implementation of the Cryptowatch HTTP API
 
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg?style=flat-square)](https://php.net/)
 
 # Installation
 This package can be installed using composer
